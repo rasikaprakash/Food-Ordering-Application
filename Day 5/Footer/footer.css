@@ -1,0 +1,52 @@
+ #foot{
+    /* margin-top:-120px;*/
+    /* margin-right:700px;
+    margin-top:-340px; */
+    display:flex;
+    margin-right:50px;
+    
+} 
+#col{
+    padding-top:50px;
+    padding-bottom:0px;
+    padding-right:300px;
+    display:flex;
+}
+#lis{
+    text-decoration: none;
+    list-style:none;
+    color:white;
+}
+#who{
+    /* margin-left:300px;
+   margin-bottom:50px; */
+   /* display:flex; */
+   /* border:10px solid white; */
+   display:flex;
+   margin-right:50px;
+   
+}
+#ico{
+    display:flex;
+    margin-right: 50px;
+}
+#feed{
+    width:150px;
+    height:30px;
+    border-radius: 5px;
+}
+#ic{
+    height:35px;
+    width:40px;
+    border-radius: 5px;
+    background-color: rgb(64, 142, 11);
+}
+#container{
+    
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
