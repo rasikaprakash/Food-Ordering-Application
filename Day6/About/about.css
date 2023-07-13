@@ -1,0 +1,43 @@
+#about-img{
+    width:100%;
+    height:500px;
+    filter: brightness(50%);
+}
+#img-text{
+    text-align:center;
+    bottom:50%;
+    left:30%;
+    position:absolute;
+    font-size:150px;
+    color:white;
+}
+#del{
+    width:600px;
+    height:600px;
+    float:right;
+}
+#letsfood{
+    font-family: 'Poppins', sans-serif;
+}
+#about-card{
+    border:3px solid black;
+    width:300px;
+    height:400px;
+    margin-left:100px;
+}
+#backgr{
+    width:300px;
+    height:150px;
+    background-color:  rgb(176, 224, 143);
+}
+#rounded-img{
+    border-radius:50%;
+    width:200px;
+    height:200px;
+    margin-left:120px;
+    margin-top:100px
+}
+#hole{
+    display:flex;
+    gap:4rem;
+}
