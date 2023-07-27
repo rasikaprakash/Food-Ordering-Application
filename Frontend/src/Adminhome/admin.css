@@ -1,0 +1,80 @@
+#home-img{
+    width:100%;
+    height:500px;
+    filter:brightness(50%);
+}
+#move{
+    margin-left:600px;
+    bottom:50%;
+    position:absolute;
+    font-size: 100px;
+    color:white;
+}
+#card-home{
+    border:2px solid white;
+    width:200px;
+    height:200px;
+    margin-left:100px;
+    margin-top:100px;
+    border-radius:10px;
+    box-shadow:5px 10px 10px rgb(133, 171, 104);
+}
+#card-whole{
+    display:flex;
+    margin-left:200px;
+}
+#ico-bord{
+    margin-left:85px;
+    margin-top:50px;
+    border:2px solid white;
+    width:40px;
+    border-radius:50%;
+    box-shadow:5px 10px 10px rgb(171, 219, 142);
+}
+#whole-up{
+  margin-top:40px;
+  margin-left:20px;
+}
+#count{
+  margin-left:50px;
+}
+table{
+    margin-left:100px;
+    margin-top:50px;
+    width:60%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  #rev-id{
+    margin-top:-250px;
+  }
+  #gro{
+     margin-top:-300px;
+  }
+  #sold-box{
+    margin-left: 100px;
+    border:2px solid white;
+    width:600px;
+    height:350px;
+    border-radius:10px;
+    box-shadow: 5px 10px 10px rgb(126, 172, 95) ;
+  }
+  tr:nth-child(even) {
+    background-color: rgb(143, 192, 110);
+  }
+  #img-right{
+    margin-left:900px;
+    border:2px solid white;
+    box-shadow:5px 10px 10px rgb(154, 199, 124) ; 
+    width:500px;
+    height:350px;
+    margin-top:-400px;
+    border-radius:10px;
+  }
+  #gro{
+    margin-left:10px;
+    margin-top:20px;
+  }

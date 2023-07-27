@@ -1,0 +1,76 @@
+#filla{
+   /* background:url("https://img.freepik.com/free-vector/restaurant-mural-wallpaper_23-2148703851.jpg?w=2000");  */
+ 
+ 
+background-image:url("https://wallpapersmug.com/download/1920x1080/ddcbbf/food-pizza-baking.jpg");
+
+}
+
+
+
+#email{
+    width:300px;
+    height:40px;
+    border-radius:15px;
+    font-family: 'IBM Plex Mono', monospace;
+}
+#username{
+    width:300px;
+    height:40px;
+    border-radius:15px;
+    font-family: 'IBM Plex Mono', monospace;
+}
+#confirmPassword{
+  width:300px;
+  height:40px;
+  border-radius:15px;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+#password{
+    width:300px;
+    height:40px;
+    border-radius:15px;
+    font-family: 'IBM Plex Mono', monospace;
+}
+#phoneNumber{
+  width:300px;
+  height:40px;
+  border-radius:15px;
+  font-family: 'IBM Plex Mono', monospace;
+}
+#sub{
+    border-radius:5px;
+    width:250px;
+    height:50px;
+    font-family: 'Teko', sans-serif;
+}
+.SocialIcon{
+    /* margin: 0 15px 5px 0; */
+    display:inline-block;vertical-align:top;margin-right: 3em;padding-left: 15%;
+}
+#sub{
+   background-color: rgb(73, 144, 74);
+}
+
+::-webkit-input-placeholder {
+    text-align: center;
+  }
+  #box1{
+    border:5px solid;
+    width:500px;
+    height:770px;
+    margin-left:900px;
+    margin-top:50px;
+    background-color: aliceblue;
+  }
+  
+  a{
+    color:green
+  }
+  #html,#css,#javascript{
+    accent-color: green;
+  }
+  #html:hover,#css :hover,#javascript :hover{
+    accent-color: green;
+  }
